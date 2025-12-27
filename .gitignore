@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# Testes
+TestResults/
+
+# Logs e temporários
+*.log
+*.cache
+*.tmp
+
+# Secrets
+secrets.json
+appsettings.Development.json
+
+
