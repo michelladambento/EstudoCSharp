@@ -1,0 +1,14 @@
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/bin/Debug/net8.0/exemplofundamentos
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/bin/Debug/net8.0/exemplofundamentos.deps.json
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/bin/Debug/net8.0/exemplofundamentos.runtimeconfig.json
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/bin/Debug/net8.0/exemplofundamentos.dll
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/bin/Debug/net8.0/exemplofundamentos.pdb
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.AssemblyInfoInputs.cache
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.AssemblyInfo.cs
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.csproj.CoreCompileInputs.cache
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.dll
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/refint/exemplofundamentos.dll
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.pdb
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/exemplofundamentos.genruntimeconfig.cache
+/home/michell-bento/Documentos/Estudos/C#-estudo/exemplofundamentos/obj/Debug/net8.0/ref/exemplofundamentos.dll
